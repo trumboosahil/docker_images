@@ -1,7 +1,3 @@
-# I'll create a markdown file with the provided README content
-
-readme_content = """
-
 # Go API with Docker
 
 This project contains a simple Go API with two endpoints:
